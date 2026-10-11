@@ -46,11 +46,3 @@
 
 **Database:**
 - MongoDB
-
-## 🚀 نصب و راه‌اندازی (Installation)
-
-برای اجرای این پروژه به صورت لوکال، مراحل زیر را دنبال کنید:
-
-۱. ریپازیتوری را کلون کنید:
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
